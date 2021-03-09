@@ -60,4 +60,4 @@ text sq =
             ""
 
         Free ->
-            "FREE"
+            "BLANK SQUARE"
